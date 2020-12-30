@@ -1,0 +1,1 @@
+{"name":"Local: is_its_tree","url":"c:\\Users\\Rajat\\OneDrive\\Desktop\\Coding-Journey-\\DSA\\is_its_tree.cpp","tests":[{"id":1609324074027,"input":"3 2\n1 2\n2 3","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Rajat\\OneDrive\\Desktop\\Coding-Journey-\\DSA\\is_its_tree.cpp","group":"local","local":true}

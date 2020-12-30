@@ -4,7 +4,7 @@
 using namespace std;
 
 vector<int> adj[100001];
-int vis[100001];
+int vis[100001]; //globally declared, values are initialised to 0
 
 void dfs(int s)
 {
