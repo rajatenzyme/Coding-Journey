@@ -59,7 +59,7 @@ int equalPartition(int N, int arr[])
 
 
 bool subsetSum( int a[], int s, int n)
-{
+{  
     bool t[n+1][s+1];
     for(int i=0;i<n+1;i++)
     {

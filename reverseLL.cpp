@@ -16,17 +16,17 @@ struct Node {
 
 void reverse( struct Node** head_ref)
 {
-    struct Node* prev = NULL;
-    struct Node* curr = *head_ref;
-    struct Node* next = NULL;
-    while(curr != NULL)
-    {
-        next = curr -> next;
-        curr->next = prev;
-        prev = curr;
-        curr = next;
+    struct Node* dummy = NULL;
+
+    while(head_ref!=NULL){
+        struct Node* next = head->next;
+        head->next = dummy;
+        dummy = head;
+        head = next;
     }
-    *head_ref = prev;
+
+    return dummy;
+    
 }
 
 void push(struct Node** head_ref, int new_data)

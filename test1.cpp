@@ -33,3 +33,43 @@ int main()
         solve();
     }    
 }
+
+
+
+
+
+
+hi kunal
+
+
+I have very basic idea on the 
+
+start giving introduction 
+hybrid mode 
+
+Fresher 
+open to explore
+Curious to learn 
+
+Yes I am open to relocate. 
+yes
+
+To work on projects
+
+tell also army project again
+
+We gathered data from different online websites 
+
+YES , i think we can do MIM using vpn 
+
+kind of virtual memory
+
+
+Any shortcoming you find which you want to share, 
+so that I can improve
+
+
+yes sir, I can work on them also. 
+
+It was a nice experience
+Have a good day! 
